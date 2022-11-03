@@ -159,13 +159,3 @@ function App() {
 }
 
 export default App;
-
-
-//title
-//cart button
-//"list of products"
-//list of products- name,price,+ button
-//cart icon
-//cart page
-//ordered arrays?
-//ordered page?
