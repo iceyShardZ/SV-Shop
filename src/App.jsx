@@ -94,7 +94,7 @@ function App() {
       <br></br>
       <h1 className='text' >SV-shop</h1>
       <img src="./images/1x/cartIcon2.png" id='icon' onClick={() => {navigate("/cart"); setTheView() }}/>
-      <h3 className='text' style={{display: "inline-block"}}>List of products</h3>
+      <h3 className='text' style={{display: "inline-block"}}>View Cart</h3>
       <br></br>
       <br></br>
       {ProductList.map( (p,i) =>{
